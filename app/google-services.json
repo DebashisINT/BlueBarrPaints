@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50766581833",
+    "project_id": "breeze-bluebarry",
+    "storage_bucket": "breeze-bluebarry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50766581833:android:f2a338614424b5c2722f98",
+        "android_client_info": {
+          "package_name": "com.breezefieldbluebarry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnbG1QAgzbMvmYBnq3XuoyT-YuHbpj2W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
